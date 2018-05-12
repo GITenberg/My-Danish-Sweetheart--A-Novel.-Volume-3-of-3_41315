@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8948
     wikipedia: http://en.wikipedia.org/wiki/William_Clark_Russell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41315#My-Danish-Sweetheart--A-Novel.-Volume-3-of-3
 gutenberg_issued: '2012-11-07'
 gutenberg_type: Text
 identifiers:
